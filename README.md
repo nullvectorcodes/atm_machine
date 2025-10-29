@@ -1,1 +1,1 @@
-# atm_machine
+# Atm Machine Simulator in C
